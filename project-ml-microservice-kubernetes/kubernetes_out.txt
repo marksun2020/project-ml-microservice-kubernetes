@@ -1,0 +1,18 @@
+d/api created
+NAMESPACE     NAME                                     READY   STATUS    RESTARTS   AGE
+default       api                                      1/1     Running   0          61s
+default       flaskskearlndemo                         1/1     Running   0          5d
+default       hello-minikube                           1/1     Running   0          6d2h
+docker        compose-7b7c5cbbcc-hjvz6                 1/1     Running   0          6d3h
+docker        compose-api-dbbf7c5db-gc8j2              1/1     Running   0          6d3h
+kube-system   coredns-5c98db65d4-g5ndz                 1/1     Running   1          6d3h
+kube-system   coredns-5c98db65d4-wkflm                 1/1     Running   1          6d3h
+kube-system   etcd-docker-desktop                      1/1     Running   0          6d3h
+kube-system   kube-apiserver-docker-desktop            1/1     Running   0          6d3h
+kube-system   kube-controller-manager-docker-desktop   1/1     Running   0          6d3h
+kube-system   kube-proxy-55fw4                         1/1     Running   0          6d3h
+kube-system   kube-scheduler-docker-desktop            1/1     Running   0          6d3h
+kube-system   storage-provisioner                      1/1     Running   1          6d3h
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
